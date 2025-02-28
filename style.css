@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.container-fluid {
+    background-color: #050505;
+}
+.container-fluid {
+    background-color: #F8F4F4;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 30.72%,rgba(169,75,75,1.00) 56.32%,rgba(3,3,3,1.00) 74.50%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 30.72%,rgba(169,75,75,1.00) 56.32%,rgba(3,3,3,1.00) 74.50%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 30.72%,rgba(169,75,75,1.00) 56.32%,rgba(3,3,3,1.00) 74.50%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 30.72%,rgba(169,75,75,1.00) 56.32%,rgba(3,3,3,1.00) 74.50%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #FFFCFD;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #070707;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #5F0B0D;
+}
+div .row .col-lg-6 {
+    color: #FCF9F9;
+}
+.container-fluid div footer {
+    background-color: #FFFFFF;
+}
+footer .row .col-lg-6 {
+}
+footer .row .col-lg-6 {
+    color: #000000;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #000000;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #050101;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #010101;
+}
